@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4800b3c1-3b01-4da0-9b09-588d9d2590f7</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>tests\test_uav_control.py</StartupFile>
+    <StartupFile>uav_control.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
